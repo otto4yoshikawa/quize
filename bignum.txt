@@ -1,0 +1,15 @@
+Sub ƒ{ƒ^ƒ“2_Click()
+n = 90
+x = 2
+
+Do While x < 100
+Columns(x).ColumnWidth = 1
+
+k = Int(n / 89)
+m = n Mod 89
+Cells(1, x) = k
+x = x + 1
+n = m * 10
+If n = 90 Then Exit Do
+Loop
+End Sub

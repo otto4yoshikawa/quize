@@ -1,0 +1,163 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://kensaku.my-pharm.ac.jp/drupal/sites/default/files/favicon.gif" type="image/gif" />
+<link rel="shortlink" href="/drupal/?q=ja/node/36" />
+<link rel="canonical" href="/drupal/?q=ja/node/36" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>利用案内 | 明治薬科大学図書館</title>
+  <style type="text/css" media="all">
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/system/system.base.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/system/system.menus.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/system/system.messages.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/system/system.theme.css?p81ioi");
+</style>
+<style type="text/css" media="all">
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/comment/comment.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/field/theme/field.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/node/node.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/poll/poll.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/search/search.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/user/user.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/modules/forum/forum.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/modules/views/css/views.css?p81ioi");
+</style>
+<style type="text/css" media="all">
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/modules/ctools/css/ctools.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/modules/library_calendar/library_calendar.css?p81ioi");
+</style>
+<style type="text/css" media="all">
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/../limedio_common/css/style.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/css/style_limedio.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/../limedio_common/css/style_custom.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/css/style_limedio_custom.css?p81ioi");
+</style>
+<style type="text/css" media="print">
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/../limedio_common/css/style_print.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/../limedio_common/css/style_print_custom.css?p81ioi");
+@import url("https://kensaku.my-pharm.ac.jp/drupal/sites/all/themes/limedio11/css/style_print_limedio_custom.css?p81ioi");
+</style>
+  <script type="text/javascript" src="https://kensaku.my-pharm.ac.jp/drupal/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://kensaku.my-pharm.ac.jp/drupal/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://kensaku.my-pharm.ac.jp/drupal/misc/drupal.js?p81ioi"></script>
+<script type="text/javascript" src="https://kensaku.my-pharm.ac.jp/drupal/sites/default/files/languages/ja_9_sIUan3bWBOi_56_0DI2E9A3_A2Q1zoRbQ7gUry4p8.js?p81ioi"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/drupal\/","pathPrefix":"ja\/","ajaxPageState":{"theme":"limedio11","theme_token":"uPaicuRl7dWVeGyRnY5mkV7Qxa08bt0xjQNv7jwIgDg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/ja_9_sIUan3bWBOi_56_0DI2E9A3_A2Q1zoRbQ7gUry4p8.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/library_calendar\/library_calendar.css":1,"sites\/all\/themes\/limedio11\/..\/limedio_common\/css\/style.css":1,"sites\/all\/themes\/limedio11\/css\/style_limedio.css":1,"sites\/all\/themes\/limedio11\/..\/limedio_common\/css\/style_custom.css":1,"sites\/all\/themes\/limedio11\/css\/style_limedio_custom.css":1,"sites\/all\/themes\/limedio11\/..\/limedio_common\/css\/style_print.css":1,"sites\/all\/themes\/limedio11\/..\/limedio_common\/css\/style_print_custom.css":1,"sites\/all\/themes\/limedio11\/css\/style_print_limedio_custom.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-36 node-type-page i18n-ja" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">メインコンテンツに移動</a>
+  </div>
+    
+<div id="head-line"></div>
+<table border="0" cellpadding="0" cellspacing="0" id="header">
+  <tr>
+    <td id="logo">
+      <a href="/drupal/?q=ja" title="ホーム"><img src="https://kensaku.my-pharm.ac.jp/drupal/sites/default/files/logo.gif" alt="ホーム" /></a><br clear="all">
+  <div class="region region-header-message">
+    <p><a href="https://www.my-pharm.ac.jp/">明治薬科大学ホームページはこちら</a></p>
+  </div>
+</td><td>
+<img src="sites/all/themes/limedio11/images/top-image.png" style="float:right;" alt=""/></td></tr></table>
+<div id="menu-waku">
+	<div id="menu">
+            <h2 class="element-invisible">メインメニュー</h2><ul class="links inline main-menu" id="navlist"><li class="menu-165 first"><a href="/drupal/?q=ja/node/6">調べる・探す</a></li>
+<li class="menu-166 active-trail active"><a href="/drupal/?q=ja/node/36" class="active-trail active">利用案内</a></li>
+<li class="menu-843"><a href="/drupal/?q=ja/node/111">学習・研究支援</a></li>
+<li class="menu-283"><a href="/drupal/?q=ja/node/47">図書館について</a></li>
+<li class="menu-196"><a href="/drupal/?q=ja/node/56">データベース一覧</a></li>
+<li class="menu-195 last"><a href="/drupal/?q=ja/node/46">e-Book</a></li>
+</ul>          </div>
+</div>
+      <div id="main">
+      	  <div id="toppage-menus"><a href=/drupal/?q=ja/limedio_auth/login>ログイン</a>&nbsp;|&nbsp;<a href="/drupal/?q=en">English</a>&nbsp;|&nbsp;<a target="_blank" href="/opac/help/ja/t-help_toc.htm">ヘルプ</a></div>
+      	       	  
+        <h2 class="element-invisible">現在地</h2><div class="breadcrumb"><a href="/drupal/?q=ja">ホーム</a></div>                <h1 class="title">利用案内</h1>
+                                         
+                <table id="content-table"><tr><td width="66%" valign="top" class="zerotd">  <div class="region region-content">
+      <div class="block block-system" id="block-system-main">
+    <div class="title"></div>
+    <div class="content">  <div class="node">
+            <span class="submitted"></span>
+    <div class="taxonomy"></div>
+    <div class="content"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p></p>
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+.wrap {
+"	width: 100%;"
+"	margin-top: 0px;"
+"	margin-right: auto;"
+"	margin-bottom: 0px;"
+"	margin-left: auto;"
+"	background-image: url(sites/default/files/line_1.png);"
+"	background-repeat: repeat-x;"
+}
+a .hover_img1{
+transition:all 0.3s ease; /<em>0.5秒かけて要素を変化させる/
+}
+a:hover .hover_img1{
+opacity: 0.7;/<em>要素の透明度を指定/
+filter: alpha(opacity=70); /<em>ie6、7の透明度指定/
+/<em>ちなみにie8の透明度指定はこれ→ -ms-filter: "alpha(opacity=70)";/
+}
+
+/*--><!]]>*/
+</style><p></p>
+<p><img src="sites/default/files/circle-right3.png" /><font size="4">学内の方</font><br />
+　<b>入館の際には、学生証または身分証カード（施設利用証）が必要です。お持ちでない方は総務課に申し出てください。</b></p>
+<table><tr><td>
+<a href="https://u-lab.my-pharm.ac.jp/~toshokan/riyou2017.html" target="_blank"><img src="sites/default/files/riyou3.png" class="hover_img1" /></a></td>
+<td><a href="https://u-lab.my-pharm.ac.jp/~toshokan/Pamphlet.pdf" target="_blank"><img src="sites/default/files/riyoupdf.png" class="hover_img1" /></a></td>
+<td><a href="https://u-lab.my-pharm.ac.jp/~toshokan/map.pdf" target="_blank"><img src="sites/default/files/kannaizu2.png" class="hover_img1" /></a></td>
+<td><a href="http://oak.my-pharm.ac.jp/~toshokan/pdf/sandaigaku.pdf" target="_blank"><img src="sites/default/files/sandai-s2.png" class="hover_img1" /></a></td>
+</tr></table><p><img src="sites/default/files/circle-right3.png" /><font size="4">学外の方</font><br />
+　<b>利用できるのは以下に該当する方のみです。お越しの際は、必ず必要書類をご持参の上、守衛所で手続きをしてください。</b></p>
+<p>（ａ）本学卒業生<br />
+（ｂ）他大学の学生<br />
+（ｃ）教育・研究を目的として資料の利用を希望する方<br />
+（ｄ）近隣市民（18才以上で、清瀬市、東村山市、所沢市、東久留米市、新座市のいずれかに住所又は勤務地がある方）</p>
+<p><a href="https://u-lab.my-pharm.ac.jp/~toshokan/riyou_gakugai2017.html" target="_blank"><img src="sites/default/files/gakugai3.png" class="hover_img1" /></a></p>
+<table><tr><td class="wrap"></td>
+</tr></table><p>【図書館からの6つのお願い】</p>
+<p><img src="sites/default/files/onegai2.png" /></p>
+</div></div></div><div class="form-item form-type-item">
+  <label>言語 </label>
+ 日本語
+</div>
+</div>
+  </div>
+</div>
+ </div>
+  </div>
+</td><td width="20" class="zerotd"></td>
+        <td width="33%" valign="top" class="zerotd"></td></tr></table>
+      </div>
+<div id="footer">
+    <div class="region region-footer">
+      <div class="block block-block" id="block-block-7">
+    <div class="title"></div>
+    <div class="content"><p>〒204-8589 東京都清瀬市野塩2-522-1<br />
+TEL：042-495-8605<br /><a href="mailto:toshokan@my-pharm.ac.jp">toshokan@my-pharm.ac.jp</a></p>
+</div>
+ </div>
+  </div>
+</div>
+  </body>
+</html>
